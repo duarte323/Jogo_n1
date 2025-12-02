@@ -9,6 +9,7 @@ while (!ganhou) {
         alert("Certo!");
         ganhou = true;
     } else {
-        alert("Errado, tenta outra vez!");
+        alert("Errado! Dica: é doce e costuma ser servida ao pequeno-almoço.");
     }
 }
+
